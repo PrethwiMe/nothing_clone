@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'dotyText';
-    src: url(/fonts/nothing-font.otf);
+    src: url(fonts/nothing-font.otf);
 }
 
 @font-face {
   font-family: 'type';
-  src: url(/fonts/zai_OlivettiLettera22Typewriter.ttf);
+  src: url(fonts/zai_OlivettiLettera22Typewriter.ttf);
 }
 
 body{
